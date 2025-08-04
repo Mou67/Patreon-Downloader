@@ -1,0 +1,4 @@
+requests
+yt-dlp
+pydub
+browser-cookie3
